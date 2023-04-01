@@ -1,4 +1,4 @@
-# 文件_进制转换器
+# File_ConversionApp
 使用Python开发，与RegAnalyzer_App类似的进制转换器，区别是通过输入文件的方式进行数据的进制转换。
 
 功能如下：
